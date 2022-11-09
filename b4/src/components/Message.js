@@ -14,7 +14,7 @@ import {
 const { Title } = Typography;
 
 const messagesUrl =
-  "https://cs3219-assignment-b-dot-buoyant-embassy-366006.as.r.appspot.com/api/message";
+  "https://cs3219assignmentb-ycyzzyhiwa-as.a.run.app/api/message";
 
 const modsUrl =
   "https://asia-southeast1-b4-366212.cloudfunctions.net/filterData";
